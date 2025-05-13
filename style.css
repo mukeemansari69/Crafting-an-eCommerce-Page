@@ -1,0 +1,129 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(223, 215, 215);
+
+}
+header{
+    display: flex;
+    color: aliceblue;
+    background-color:#662c04 ;
+}
+ header h1{
+    display: flex;
+    justify-content: center;
+    height: 110px;
+    width: 150px;
+   
+    margin-left: 10px;
+    
+ }
+.list{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 40px;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+}
+a:hover{
+    color: blue;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+section{
+    display: inline-block;
+     text-align: center;
+}
+section h2{
+    color: black ;
+}
+section p{
+    color: rgb(53, 53, 236);
+}
+.p1{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 400px;
+    width: 300px;
+    border: 1px solid black;
+    align-content: center;
+    padding-left: 50px;
+    background-color:silver;
+    border-radius: 5px;
+    box-shadow: h-offset v-offset blur spread color;
+    
+}
+.p2{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 400px;
+    width: 300px;
+    border: 1px solid black;
+    align-content: center;
+    padding-left: 50px;
+    background-color:silver;
+    border-radius: 5px;
+    box-shadow: h-offset v-offset blur spread color;
+    
+}.p3{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 400px;
+    width: 300px;
+    border: 1px solid black;
+    align-content: center;
+    padding-left: 50px;
+    background-color:silver;
+    border-radius: 5px;
+    box-shadow: h-offset v-offset blur spread color;
+    
+}
+.p4{
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 400px;
+    width: 300px;
+    border: 1px solid black;
+    align-content: center;
+    padding-left: 50px;
+    background-color:silver;
+    border-radius: 5px;
+    box-shadow: h-offset v-offset blur spread color;
+    
+}
+button{
+    background-color: rgb(149, 187, 91);
+    color: aliceblue;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+}
+button:hover{
+   background-color: green;
+}
+footer{
+    display: inline-block;
+    height: 100px;
+    background-color: #662c04;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding-left: 50%;
+    color: aliceblue;
+}
